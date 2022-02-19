@@ -107,7 +107,7 @@ Google Theme:
       # Text
       primary-text-color: rgb(242, 242, 242)
       secondary-text-color: rgb(166, 166, 166)
-      text-primary-color: var(--primary-text-color)
+      text-primary-color: rgb(33, 33, 33)
       disabled-text-color: rgba(184, 190, 199, 0.4)
       # Sidebar Menu
       sidebar-icon-color: rgb(169, 177, 188)
