@@ -120,8 +120,8 @@ Google Theme:
       paper-item-icon-color: rgb(169, 177, 188)
       paper-item-icon-active-color: rgb(138, 180, 248)
       # States and Badges
-      state-icon-color: rgb(138, 180, 248)
-      state-icon-active-color: rgb(169, 177, 188)
+      state-icon-color: rgb(169, 177, 188)
+      state-icon-active-color: rgb(138, 180, 248)
       state-icon-unavailable-color: var(--disabled-text-color)
       # Sliders
       paper-slider-knob-color: rgb(138, 180, 248)
