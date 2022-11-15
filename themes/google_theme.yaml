@@ -53,8 +53,9 @@ Google Theme:
       label-badge-gray: rgb(95, 98, 103)
       # Cards
       card-background-color: rgb(255, 255, 255)
-      ha-card-border-radius: "10px"
-      ha-card-box-shadow: 1px 1px 5px 0px rgb(230, 230, 230)
+      ha-card-background: rgb(255, 255, 255)
+      ha-card-border-color: none
+      ha-card-border-width: 0px
       paper-dialog-background-color: var(--card-background-color)
       paper-listbox-background-color: var(--card-background-color)
       paper-card-background-color: var(--card-background-color)
@@ -139,8 +140,8 @@ Google Theme:
       label-badge-gray: rgb(95, 98, 103)
       # Cards
       card-background-color: rgb(32, 33, 36)
-      ha-card-border-radius: "10px"
-      ha-card-box-shadow: 1px 1px 5px 0px rgb(12, 12, 14)
+      ha-card-border-color: none
+      ha-card-border-width: 0px
       paper-dialog-background-color: var(--card-background-color)
       paper-listbox-background-color: var(--card-background-color)
       paper-card-background-color: var(--card-background-color)
