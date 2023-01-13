@@ -100,6 +100,16 @@ Google Theme:
       #RGB
       rgb-primary-text-color: 32, 33, 36
       rgb-primary-color: 32, 33, 36
+      rgb-accent-color: 26, 115, 232
+      rgb-state-switch-color: var(--rgb-accent-color)
+      rgb-state-light-color: var(--rgb-accent-color)
+      rgb-state-fan-color: var(--rgb-accent-color)
+      rgb-state-script-color: var(--rgb-accent-color)
+      rgb-state-vacuum-color: var(--rgb-accent-color)
+      rgb-state-remote-color: var(--rgb-accent-color)
+      rgb-state-input-boolean-color: var(--rgb-accent-color)
+      rgb-state-humidifier-color: var(--rgb-accent-color)
+      rgb-state-cover-color: var(--rgb-accent-color)
 #
     dark:
       # Header:
@@ -194,3 +204,13 @@ Google Theme:
       #RGB
       rgb-primary-text-color: 169, 177, 188
       rgb-primary-color: 169, 177, 188
+      rgb-accent-color: 138, 180, 248
+      rgb-state-switch-color: var(--rgb-accent-color)
+      rgb-state-light-color: var(--rgb-accent-color)
+      rgb-state-fan-color: var(--rgb-accent-color)
+      rgb-state-script-color: var(--rgb-accent-color)
+      rgb-state-vacuum-color: var(--rgb-accent-color)
+      rgb-state-remote-color: var(--rgb-accent-color)
+      rgb-state-input-boolean-color: var(--rgb-accent-color)
+      rgb-state-humidifier-color: var(--rgb-accent-color)
+      rgb-state-cover-color: var(--rgb-accent-color)
