@@ -56,6 +56,7 @@ Google Theme:
       card-background-color: rgb(255, 255, 255)
       ha-card-background: rgb(255, 255, 255)
       ha-card-border-color: rgb(235, 235, 235)
+      ha-card-border-width: 0
       paper-dialog-background-color: var(--card-background-color)
       paper-listbox-background-color: var(--card-background-color)
       paper-card-background-color: var(--card-background-color)
@@ -160,6 +161,7 @@ Google Theme:
       card-background-color: rgb(32, 33, 36)
       ha-card-background: rgb(32, 33, 36)
       ha-card-border-color: rgb(42, 43, 46)
+      ha-card-border-width: 0
       paper-dialog-background-color: var(--card-background-color)
       paper-listbox-background-color: var(--card-background-color)
       paper-card-background-color: var(--card-background-color)
